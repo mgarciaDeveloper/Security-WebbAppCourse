@@ -8,6 +8,7 @@ yarn-error.log*
 lerna-debug.log*
 .pnpm-debug.log*
 
+<<<<<<< HEAD
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
@@ -129,3 +130,8 @@ API
 Training
 Blog
 About
+=======
+*txt
+
+Mess.js
+>>>>>>> bc8deafbeb681e2e0825b9e4e6b0247cbb516ad4
